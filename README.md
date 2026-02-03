@@ -43,5 +43,6 @@ Generate an AI reply
 Paste and send it
 
 main.py file is used to find coordinates of the screen using mouse movement
+
 program.py is the main file which contains autoreply code
 
