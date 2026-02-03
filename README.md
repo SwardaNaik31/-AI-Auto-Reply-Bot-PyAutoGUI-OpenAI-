@@ -21,7 +21,7 @@
 
 Install required libraries:
 
-   pip install pyautogui pyperclip openai
+ pip install pyautogui pyperclip openai
 
 🔑 OpenAI API Key Setup (Required)
 ⚠️ Never hard-code your API key:
