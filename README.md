@@ -34,9 +34,14 @@ Install required libraries:
      Open Chrome (or any app)
     Select the text you want the AI to reply to
 Run:
+
 python program.py
 You have 5 seconds to switch back and ensure text is selected
 The bot will automatically:
 Copy the text
 Generate an AI reply
 Paste and send it
+
+main.py file is used to find coordinates of the screen using mouse movement
+program.py is the main file which contains autoreply code
+
